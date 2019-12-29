@@ -2,7 +2,7 @@
 
 ## The React native project was written with typescript.
 
-##Project team: 
+Project team: 
   Şenol Keskin
   Özlem Yazıharman
   Cihan Şimşir
