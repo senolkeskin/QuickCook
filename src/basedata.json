@@ -1,0 +1,185 @@
+{
+    "users":[
+        {
+            "username":"senolkeskin",
+            "password":"123456"
+        },
+        {
+            "username":"ozlemyaziharman",
+            "password":"ozlemy"
+        },
+        {
+            "username":"cihansimsir",
+            "password":"crazyboy"
+        },
+        {
+            "username":"mychefmyhero",
+            "password":"chef123"
+        }
+    ],
+    "packages": [
+        {
+            "packageId": 1,
+            "packageName": "Vegan",
+            "image": "https://scontent.fbtz1-7.fna.fbcdn.net/v/t1.0-9/80379696_3017237468327549_8977763962665828352_n.jpg?_nc_cat=101&_nc_ohc=BtzaHIvCovwAQleQ-SxhTcjZmhtEgUdkM-8FTaOO9Detmz3FMNVVE80tw&_nc_ht=scontent.fbtz1-7.fna&oh=a5f0c0a4f718f1ae41560276a26d6780&oe=5EB427AE",
+            "Foods": [
+                {
+                    "foodId":1,
+                    "foodName": "Vegan Menu 1",
+                    "contents":"Sebzeli Çorba, Kurubakliyat Yemeği, Bulgur Pilavı, Yeşillik Salatası",
+                    "calorie": 700,
+                    "price": 32.00
+                },
+                {
+                    "foodId":2,
+                    "foodName": "Vegan Menu 2",
+                    "contents":"Vegan Tarator, Fırında Farafel, Humus, Meyve",
+                    "calorie": 700,
+                    "price": 21.00
+                },
+                {
+                    "foodId":3,
+                    "foodName": "Vegan Menu 3",
+                    "contents":"Fırında Karışık Sebze, Mercimek Salatası, Börülce yemeği",
+                    "calorie": 651,
+                    "price": 27.00
+                }
+            ]
+        },
+        {
+            "packageId": 2,
+            "packageName": "Vegatarian",
+            "image": "https://scontent.fbtz1-10.fna.fbcdn.net/v/t1.0-9/s960x960/80532099_3017238728327423_2556908234489200640_o.jpg?_nc_cat=110&_nc_ohc=7rfzwvdLP4UAQm2PM_TeWGqioOW_CCUxWqUKaKgdUyaQ7dV53eTSs0LbA&_nc_ht=scontent.fbtz1-10.fna&oh=8e4eede198c666d1e50f50bb369f02e5&oe=5E9DAF7F",
+            "Foods": [
+                {
+                    "foodId":4,
+                    "foodName": "Mücver Menu",
+                    "contents":"Mücver, Erik Kompostosu",
+                    "calorie": 421,
+                    "price": 20.00
+
+                },
+                {
+                    "foodId":5,
+                    "foodName": "Vejetaryen Krep Menu",
+                    "contents":"Vejetaryen Krep, Şeftali Suyu",
+                    "calorie": 421,
+                    "price": 20.00
+                },
+                {
+                    "foodId":6,
+                    "foodName": "Vejetaryen Pizza",
+                    "contents":null,
+                    "calorie": 612,
+                    "price": 30.00
+                }
+            ]
+        },
+        {
+            "packageId": 3,
+            "packageName": "Low Calories",
+            "image": "https://scontent.fbtz1-7.fna.fbcdn.net/v/t1.0-9/s960x960/81639715_3017237564994206_8445122369386708992_o.jpg?_nc_cat=104&_nc_ohc=qKwR-zVwT9MAQkCVvsIELYl819RC0oZsLgbeBOQNlPleFj2LNCi_bmHFw&_nc_ht=scontent.fbtz1-7.fna&oh=90ed9a6b546054afbd515ba2c3bb6758&oe=5E6A9466",
+            "Foods": [
+                {
+                    "foodId":7,
+                    "foodName": "Kepekli Pesto Soslu Makarna",
+                    "contents":null,
+                    "calorie": 397,
+                    "price": 16.00
+
+                },
+                {
+                    "foodId":8,
+                    "foodName": "Tavuklu Karnabahar Menu",
+                    "contents":"Tavuklu Karnabahar Yemeği, Su",
+                    "calorie": 732,
+                    "price": 22.00
+                },
+                {
+                    "foodId":9,
+                    "foodName": "Sebzeli Hamburger Menu",
+                    "contents":"Sebzeli Hamburger, Portakal Suyu",
+                    "calorie": 467,
+                    "price": 18.00
+                }
+            ]
+        },
+        {
+            "packageId": 4,
+            "packageName": "Gluten Free",
+            "image": "https://scontent.fbtz1-2.fna.fbcdn.net/v/t1.0-9/81178644_3017237141660915_7800317735237320704_n.jpg?_nc_cat=100&_nc_ohc=MtD9PeSegQoAQmkYjpvxOXtDRTwF1OwNWDH47wh1fznLygMumRl2trwUg&_nc_ht=scontent.fbtz1-2.fna&oh=74017855d0e8091f0e6ff969e32483dd&oe=5EA84305",
+            "Foods": [
+                {
+                    "foodId":10,
+                    "foodName": "Glutensiz Çörek Menu",
+                    "contents":"Glutensiz Çörek, Meyve Suyu",
+                    "calorie": 700,
+                    "price": 8.00
+                },
+                {
+                    "foodId":11,
+                    "foodName": "Glutensiz Menu1",
+                    "contents":"Yayla Çorbası, Patates Mantısı, Dondurmalı İrmik Helvası",
+                    "calorie": 1400,
+                    "price": 27.00
+                }
+            ]
+        },
+        {
+            "packageId": 5,
+            "packageName": "Sportsman",
+            "image": "https://scontent.fbtz1-3.fna.fbcdn.net/v/t1.0-9/s960x960/80698821_3017237558327540_3039466433172996096_o.jpg?_nc_cat=109&_nc_ohc=xIN8OuQtuwQAQkGYDoW_e_pFiUYxxjiL3ddGlTY7kDC3KqGRIPiGuNuKg&_nc_ht=scontent.fbtz1-3.fna&oh=9cfa9b38dc929c357d2a2c9741ded1ce&oe=5EA36669",
+            "Foods": [
+                {
+                    "foodId":12,
+                    "foodName": "Tavuk Pirzola Menu",
+                    "contents":"Tavuk Pirzola, Pirinç Pilavı, Ayran",
+                    "calorie": 1200,
+                    "price": 18.90
+                },
+                {
+                    "foodId":13,
+                    "foodName": "Izgara Biftek Menu",
+                    "contents":"Izgara Biftek, Közde Biber, Bulgur Pilavı, Ayran",
+                    "calorie": 1400,
+                    "price": 27.00
+                },
+                {
+                    "foodId":14,
+                    "foodName": "Balık Menu",
+                    "contents":"Somon Balığı, Salata, Tam Buğday Ekmeği",
+                    "calorie": 980,
+                    "price": 18.00
+                }
+            ]
+        },
+        {
+            "packageId": 6,
+            "packageName": "Chef’s Choice",
+            "image": "https://scontent.fbtz1-5.fna.fbcdn.net/v/t1.0-9/81668061_3017237108327585_1282462167840325632_n.jpg?_nc_cat=103&_nc_ohc=eyaZ5_Z4BbkAQmGtOO45HHsnJiwjkfO69Ui02VPyHMsTpcxn9BXl3g3jA&_nc_ht=scontent.fbtz1-5.fna&oh=f33b94c2278c85ac710c7df245ec61c8&oe=5E9F2848",
+            "Foods": [
+                {
+                    "foodId":15,
+                    "foodName": "Yeni Yıl Menu",
+                    "contents":"Domates Çorbası, İç Pilavlı Hindi, Magnolia",
+                    "calorie": 1000,
+                    "price": 40.00
+                },
+                {
+                    "foodId":16,
+                    "foodName": "Ali Nazik Menu",
+                    "contents":"Ali Nazik Kebabı, Ezogelin Çorbası, Kola",
+                    "calorie": 800,
+                    "price": 30.00
+                },
+                {
+                    "foodId":17,
+                    "foodName": "Karnabahar Graten Menu",
+                    "contents":"Karnabahar Graten, Yoğurtlu Semizotu Salatası, Portakallı Pırasa",
+                    "calorie": 600,
+                    "price": 25.00
+                }
+            ]
+        }
+    ]
+}
